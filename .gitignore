@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+wandb/
+mlruns/
+checkpoints/
+*.pt
+*.pth
+*.safetensors
+cfg3f_*.txt
